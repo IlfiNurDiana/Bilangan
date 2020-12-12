@@ -39,7 +39,7 @@
         height: 600px;
     }
     .gambar {
-        height: 90vh;
+        height: 70vh;
     }
     .gambar h2 {
         font-size: 25px;
@@ -57,7 +57,7 @@
         font-size: 35px;
     }
     .keterangan p {
-        padding: 0 40px;
+        padding: 0 60px;
     }
     .icon {
         padding: 0 120px;
