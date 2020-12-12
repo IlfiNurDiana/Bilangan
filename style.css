@@ -36,6 +36,9 @@ header ul li a {
 header ul li a:hover {
 	color: black;
 }
+.selected { 
+	color: black;
+}
 a {
 	text-decoration: none;
 }
