@@ -54,6 +54,7 @@
     }
     .submit {
         width: 170px;
+	    font-size: medium;
     }
     footer p {
         font-size: 11px;
