@@ -68,6 +68,12 @@
 }
 
 @media (max-width: 415px){
+    .sidebar { 
+        width: 200px;
+    }
+    .mobile-menu {
+        padding: 16px;
+    }
     input {
         width: 200px;
     }
