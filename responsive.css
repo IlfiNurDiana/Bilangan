@@ -1,0 +1,152 @@
+/*Tambilan Tablet*/
+@media (max-width: 1000px) {
+    .banner h2 {
+        font-size: 42px;
+    }
+    .waktu {
+        font-size: 32px;
+    }
+    .selamat {
+        font-size: 17px;
+    }
+    input {
+        width: 500px;
+    }
+    textarea {
+        width: 500px;
+    }
+    .submit {
+        width: 300px;
+    }
+    .col-4 {
+        width:50%;
+        padding: 10px 60px;
+    }
+}
+
+
+
+@media (max-width: 700px){
+    .banner h2 {
+        font-size: 37px;
+    }
+    .waktu {
+        font-size: 27px;
+    }
+    .selamat {
+        font-size: 15px;
+    }
+    input {
+        width: 300px;
+    }
+    textarea {
+        width: 300px;
+    }
+    .submit {
+        width: 170px;
+    }
+    .mobile-menu {
+        display: block;
+     }
+     header ul {
+        display: none;
+     }
+     .col-4 {
+        width:100%;
+        padding: 10px 160px;
+    }
+    footer p {
+        font-size: 11px;
+    }
+}
+
+
+@media (max-width: 550px){
+    .col-4 {
+        padding: 10px 100px;
+	}
+}
+
+@media (max-width: 415px){
+    input {
+        width: 200px;
+    }
+    .sidebar { 
+        width: 200px;
+    }
+    .mobile-menu {
+        padding: 16px;
+    }
+    textarea {
+        width: 200px;
+    }
+    .submit {
+        width: 100px;
+    }
+    .col-4 {
+        padding: 10px 80px;
+    }
+    .banner h2 { 
+        font-size: 27px;
+    }
+    .selamat { 
+        font-size: 12px;
+    }
+    .waktu { 
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 300px){
+    input {
+        width: 150px;
+    }
+    textarea {
+        width: 150px;
+    }
+    .submit {
+        width: 80px;
+    }
+    .col-4 {
+        padding: 10px 40px;
+    }
+    .banner h2 {
+        font-size: 20px;
+    }
+    .selamat { 
+        font-size: 12px;
+    }
+    .waktu { 
+        font-size: 20px;
+    }
+    header h1 { 
+        font-size: 30px;
+        padding:15px 22px;
+    }
+    header {
+        height:65px;
+    }
+    footer p { 
+        font-size: 10.5px;
+    }
+}
+
+@media (max-width: 270px){
+    .sidebar {
+        width: 150px;
+    }
+    header h1 { 
+        font-size: 25px;
+        padding:10px 12px;
+    }
+    header {
+        height:50px;
+    }
+    .col-4 {
+        padding: 10px 30px;
+    }
+}
+
+
+
+
